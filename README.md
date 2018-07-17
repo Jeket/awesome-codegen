@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Code generation is the process of generating code from a higher level specification.
+Code generation is the process of generating code from a higher level specification. And this is awesome.
 
 This is a list of articles and software that allow you to generate software to reduce the amount of software you write.
 
